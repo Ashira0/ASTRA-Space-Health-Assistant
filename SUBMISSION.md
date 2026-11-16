@@ -507,7 +507,7 @@ https://github.com/Ashira0/ASTRA-Space-Health-Assistant
 
 **Official Demonstration Video**
 
-[ADD PUBLIC VIDEO URL HERE]
+(https://www.youtube.com/watch?v=F1c-4f6kJUM)
 
 **NASA Space Apps Team**
 
